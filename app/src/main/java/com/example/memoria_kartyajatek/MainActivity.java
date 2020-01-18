@@ -179,7 +179,7 @@ public class MainActivity extends AppCompatActivity {
         ford_auto_kartya104 = R.drawable.ford_auto_kartya104;
         ikarus_kartya105 = R.drawable.ikarus_kartya105;
         kamion_kartya106 = R.drawable.kamion_kartya106;
-        
+
         amerikai_taxi_kartya201=R.drawable.amerikai_taxi_kartya101;
         busz_kartya202=R.drawable.busz_kartya102;
         cruise_kartya203=R.drawable.cruise_kartya103;
